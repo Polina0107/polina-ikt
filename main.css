@@ -2,9 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 
-* {
-    background: black;
-}
 
 .cf:before,
 .cf:after {
@@ -319,7 +316,7 @@ main {
 main {
     height: 100%;
     overflow: hidden;
-    background: hsl(0,0%,95%);
+    background: black;
 }
 .okom{
     font-family: 'Times New Roman', cursive;
